@@ -2,7 +2,7 @@
 
 <!-- ================= HERO BANNER ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20there,%20I'm%20Akash%20Varma!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20%7C%20ML%20%26%20Data%20Science%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
+<img src="./Github profile.jpegSize=17" width="100%"/>
 
 <br>
 
@@ -267,39 +267,6 @@ Coordinated a **36-hour hackathon**, contributing to event organization, partici
 
 ---
 
-<!-- ================= CODING JOURNEY ================= -->
-
-## 💻 My Coding Journey
-
-```text
-Python        ████████████████████░░  Learning & Practicing
-Java          █████████████████░░░░░  Learning & Practicing
-SQL           █████████████████░░░░░  Learning & Practicing
-DSA           ███████████████░░░░░░░  Practicing
-OOP           ███████████████░░░░░░░  Practicing
-Machine       ███████████░░░░░░░░░░░  Currently Learning
-Learning
-Data Science  ███████████░░░░░░░░░░░  Currently Learning
-```
-
----
-
-<!-- ================= GOALS ================= -->
-
-## 🎯 2026 Goals
-
-* [ ] Strengthen **Python**
-* [ ] Master **Data Structures & Algorithms**
-* [ ] Improve **Java & OOP**
-* [ ] Become strong in **SQL**
-* [ ] Learn **Machine Learning**
-* [ ] Build practical **Data Science projects**
-* [ ] Contribute to open-source projects
-* [ ] Build more real-world applications
-* [ ] Prepare for Software Developer interviews
-* [ ] Start my professional career as a **Software Developer / Software Engineer**
-
----
 
 <!-- ================= PROFILE PHILOSOPHY ================= -->
 

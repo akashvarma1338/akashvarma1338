@@ -2,7 +2,7 @@
 
 <!-- ================= HERO BANNER ================= -->
 
-<img src="./Github profile.jpegSize=17" width="100%"/>
+<img src="./Github%20profile.jpeg" width="100%"/>
 
 <br>
 

@@ -2,7 +2,7 @@
 
 <!-- ================= HERO BANNER ================= -->
 
-<img src="./Github%20profile.jpeg" width="700px"/>
+<img align="right" width="180" style="max-width:100%;height:auto;" src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/gif3.gif" />
 
 <br>
 

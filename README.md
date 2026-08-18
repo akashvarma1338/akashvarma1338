@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Akash 👋
 
-<!--
-**akashvarma1338/akashvarma1338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Akash Varma — a software developer interested in building reliable and user-friendly web applications.
 
-Here are some ideas to get you started:
+## About me
+- 🔭 I’m currently working on: [your current project or role]
+- 🌱 I’m learning: [languages, frameworks, topics]
+- 💬 Ask me about: JavaScript, TypeScript, React, Node.js, DevOps
+- 📫 How to reach me: [your-email@example.com] or see links below
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+- Languages: JavaScript, TypeScript, Python
+- Frontend: React, Next.js, CSS
+- Backend: Node.js, Express, PostgreSQL
+- DevOps: Docker, GitHub Actions, CI/CD
+
+## Projects
+- Project One — short description (link)
+- Project Two — short description (link)
+
+## Links
+- Portfolio: https://your-portfolio.example.com
+- Twitter / X: https://twitter.com/yourhandle
+- LinkedIn: https://www.linkedin.com/in/yourprofile
+
+Thanks for visiting my GitHub profile — feel free to say hi!
